@@ -85,10 +85,6 @@ Firebase Firestoreのセキュリティルールにより：
 
 MIT License
 
-## 🙏 クレジット
-
-Created with ❤️ using Claude Code
-
 ---
 
 **[今すぐプレイ！](https://aratahorie.github.io/Simple-Typing/)**
